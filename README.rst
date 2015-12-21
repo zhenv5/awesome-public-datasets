@@ -300,6 +300,7 @@ Machine Learning
 * `Discogs Monthly Data <http://www.discogs.com/data/>`_
 * `eBay Online Auctions (2012) <http://www.modelingonlineauctions.com/datasets>`_
 * `IMDb Database <http://www.imdb.com/interfaces>`_
+* `IMDB Movie Review Dataset <http://ai.stanford.edu/~amaas/data/sentiment/>`_
 * `Keel Repository for classification, regression and time series <http://sci2s.ugr.es/keel/datasets.php>`_
 * `Lending Club Loan Data <https://www.lendingclub.com/info/download-data.action>`_
 * `Machine Learning Data Set Repository <http://mldata.org/>`_
@@ -311,6 +312,7 @@ Machine Learning
 * `Restaurants Health Score Data in San Francisco <http://missionlocal.org/san-francisco-restaurant-health-inspections/>`_
 * `UCI Machine Learning Repository <http://archive.ics.uci.edu/ml/>`_
 * `Yahoo! Ratings and Classification Data <http://webscope.sandbox.yahoo.com/catalog.php?datatype=r>`_
+
 
 
 Museums
